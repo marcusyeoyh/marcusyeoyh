@@ -1,6 +1,10 @@
 <!-- ![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg) -->
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey I'm Marcus!</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h1>Hey I'm Marcus!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<br>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=&#9889+Marcus+Yeo..&#9889;++;Computer+Science+Student,;Active+Learner,;Love+to+learn+new+stuffs"></a>
+</p>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
